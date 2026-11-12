@@ -1,2 +1,2 @@
-# DevOps GIt Workflow Project
+# DevOps Git Workflow Project
 Project demostrating Git and GitHub workflows.
